@@ -1,3 +1,5 @@
+'use client'
+
 import Header from '@/app/(home)/components/Header'
 import Hero from '@/app/(home)/components/Hero'
 import Introduction from '@/app/(home)/components/Introduction'
@@ -14,4 +16,4 @@ export default function Home() {
       <Footer />
     </div>
   )
-}
+} 
